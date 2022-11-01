@@ -1,4 +1,4 @@
-package org.example;
+package com.marlan;
 
 import java.util.Random;
 

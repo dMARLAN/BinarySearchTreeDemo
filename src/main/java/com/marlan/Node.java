@@ -1,4 +1,4 @@
-package org.example;
+package com.marlan;
 
 public class Node {
     Node left;
