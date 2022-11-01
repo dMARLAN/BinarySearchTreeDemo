@@ -15,7 +15,7 @@ public class BinarySearchTreeDemo {
             root.insert(i);
         }
 
-        System.out.println("In Order:"); // LEFT ROOT RIGHT | 0 1 2 3 4 5 6 7 8 9 x
+        System.out.println("In Order:"); // LEFT ROOT RIGHT | 0 1 2 3 4 5 6 7 8 9
         root.printInOrder();
         System.out.println("-----------------");
 
